@@ -1,0 +1,12 @@
+th{
+    background-color: grey;
+}
+td:hover{
+    background-color: orange;
+}
+td{
+    border-radius: 15%;
+}
+table{
+    margin-top: 30%;
+}
